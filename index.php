@@ -1,6 +1,5 @@
 <!doctype html>
 <html class="no-js"  lang="en">
-
 	<head>
 		<!-- META DATA -->
 		<meta charset="utf-8">
@@ -59,7 +58,6 @@
 		<![endif]-->
 
 	</head>
-
 	<body>
 		<!--[if lte IE 9]>
 		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
@@ -111,7 +109,6 @@
 		</header><!-- /.top-area-->
 		<!-- main-menu End -->
 
-		
 		<!--about-us start -->
 		<section id="home" class="about-us">
 			<div class="container">
@@ -245,8 +242,8 @@
 
 		</section><!--/.gallery-->
 		<!--gallery end-->
-		
-		<!--packages start-->
+
+		<!--Rating Tempat-->
 		<section id="pack" class="packages">
 			<div class="container">
 				<div class="gallary-header text-center">
@@ -254,29 +251,28 @@
 						Rating Tempat 
 					</h2>
 					<p>
-						Duis aute irure dolor in  velit esse cillum dolore eu fugiat nulla.  
+						Lihat  bagaimana tanggapan pengunjung di tempat wisata  
 					</p>
 				</div><!--/.gallery-header-->
 				<div class="packages-content">
 					<div class="row">
-
 						<div class="col-md-4 col-sm-6">
 							<div class="single-package-item">
-								<img src="<?php echo base_url('assets/images/packages/p1.jpg')?>" alt="package-place">
+								<img src="<?php echo base_url('assets/images/packages/wiladatika.jpg')?>" alt="package-place">
 								<div class="single-package-item-txt">
-									<h3>italy <span class="pull-right">$499</span></h3>
+									<h3>Taman wiladatika</h3>
 									<div class="packages-para">
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i> 5 daays 6 nights
+												<i class="fa fa-angle-right"></i> 08:00 - 16:00 WIB
 											</span>
-											<i class="fa fa-angle-right"></i>  5 star accomodation
+											<i class="fa fa-angle-right"></i> Taman Bunga
 										</p>
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i>  transportation
+												<i class="fa fa-angle-right"></i> Playground
 											</span>
-											<i class="fa fa-angle-right"></i>  food facilities
+											<i class="fa fa-angle-right"></i> Outbond
 										 </p>
 									</div><!--/.packages-para-->
 									<div class="packages-review">
@@ -286,36 +282,35 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
-											<span>2544 review</span>
+											<span>104 review</span>
 										</p>
 									</div><!--/.packages-review-->
 									<div class="about-btn">
 										<button  class="about-view packages-btn">
-											book now
+											Komentar
 										</button>
 									</div><!--/.about-btn-->
 								</div><!--/.single-package-item-txt-->
 							</div><!--/.single-package-item-->
 
 						</div><!--/.col-->
-
 						<div class="col-md-4 col-sm-6">
 							<div class="single-package-item">
-								<img src="<?php echo base_url('assets/images/packages/p2.jpg')?>" alt="package-place">
+								<img src="<?php echo base_url('assets/images/packages/dkandang.jpg')?>" alt="package-place">
 								<div class="single-package-item-txt">
-									<h3>england <span class="pull-right">$1499</span></h3>
+									<h3>D'Kandang Amazing Farm</h3>
 									<div class="packages-para">
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i> 5 daays 6 nights
+												<i class="fa fa-angle-right"></i> 09:00 - 16:00 WIB
 											</span>
-											<i class="fa fa-angle-right"></i>  5 star accomodation
+											<i class="fa fa-angle-right"></i> Gazebo
 										</p>
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i>  transportation
+												<i class="fa fa-angle-right"></i> Outbond
 											</span>
-											<i class="fa fa-angle-right"></i>  food facilities
+											<i class="fa fa-angle-right"></i> Peternakan
 										 </p>
 									</div><!--/.packages-para-->
 									<div class="packages-review">
@@ -325,51 +320,12 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
-											<span>2544 review</span>
+											<span>133 review</span>
 										</p>
 									</div><!--/.packages-review-->
 									<div class="about-btn">
 										<button  class="about-view packages-btn">
-											book now
-										</button>
-									</div><!--/.about-btn-->
-								</div><!--/.single-package-item-txt-->
-							</div><!--/.single-package-item-->
-
-						</div><!--/.col-->
-						
-						<div class="col-md-4 col-sm-6">
-							<div class="single-package-item">
-								<img src="<?php echo base_url('assets/images/packages/p3.jpg')?>" alt="package-place">
-								<div class="single-package-item-txt">
-									<h3>france <span class="pull-right">$1199</span></h3>
-									<div class="packages-para">
-										<p>
-											<span>
-												<i class="fa fa-angle-right"></i> 5 daays 6 nights
-											</span>
-											<i class="fa fa-angle-right"></i>  5 star accomodation
-										</p>
-										<p>
-											<span>
-												<i class="fa fa-angle-right"></i>  transportation
-											</span>
-											<i class="fa fa-angle-right"></i>  food facilities
-										 </p>
-									</div><!--/.packages-para-->
-									<div class="packages-review">
-										<p>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<span>2544 review</span>
-										</p>
-									</div><!--/.packages-review-->
-									<div class="about-btn">
-										<button  class="about-view packages-btn">
-											book now
+											Komentar
 										</button>
 									</div><!--/.about-btn-->
 								</div><!--/.single-package-item-txt-->
@@ -379,21 +335,21 @@
 						
 						<div class="col-md-4 col-sm-6">
 							<div class="single-package-item">
-								<img src="<?php echo base_url('assets/images/packages/p4.jpg')?>" alt="package-place">
+								<img src="<?php echo base_url('assets/images/packages/mekarsari.jpg')?>" alt="package-place">
 								<div class="single-package-item-txt">
-									<h3>india <span class="pull-right">$799</span></h3>
+									<h3>Mekarsari</h3>
 									<div class="packages-para">
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i> 5 daays 6 nights
+												<i class="fa fa-angle-right"></i> 09:00 - 15:00 WIB
 											</span>
-											<i class="fa fa-angle-right"></i>  5 star accomodation
+											<i class="fa fa-angle-right"></i> Kids Outbond
 										</p>
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i>  transportation
+												<i class="fa fa-angle-right"></i> Taman Luas
 											</span>
-											<i class="fa fa-angle-right"></i>  food facilities
+											<i class="fa fa-angle-right"></i>  Kereta wisata
 										 </p>
 									</div><!--/.packages-para-->
 									<div class="packages-review">
@@ -403,12 +359,12 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
-											<span>2544 review</span>
+											<span>217 review</span>
 										</p>
 									</div><!--/.packages-review-->
 									<div class="about-btn">
 										<button  class="about-view packages-btn">
-											book now
+											Komentar
 										</button>
 									</div><!--/.about-btn-->
 								</div><!--/.single-package-item-txt-->
@@ -418,21 +374,21 @@
 						
 						<div class="col-md-4 col-sm-6">
 							<div class="single-package-item">
-								<img src="<?php echo base_url('assets/images/packages/p5.jpg')?>" alt="package-place">
+								<img src="<?php echo base_url('assets/images/packages/godong.jpg')?>" alt="package-place">
 								<div class="single-package-item-txt">
-									<h3>spain <span class="pull-right">$999</span></h3>
+									<h3>Godong Ijo</h3>
 									<div class="packages-para">
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i> 5 daays 6 nights
+												<i class="fa fa-angle-right"></i> 09:00 - 20:00 WIB
 											</span>
-											<i class="fa fa-angle-right"></i>  5 star accomodation
+											<i class="fa fa-angle-right"></i> Aula Dome
 										</p>
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i>  transportation
+												<i class="fa fa-angle-right"></i> Cafe & Resto
 											</span>
-											<i class="fa fa-angle-right"></i>  food facilities
+											<i class="fa fa-angle-right"></i> Pemancingan
 										 </p>
 									</div><!--/.packages-para-->
 									<div class="packages-review">
@@ -442,12 +398,12 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
-											<span>2544 review</span>
+											<span>166 review</span>
 										</p>
 									</div><!--/.packages-review-->
 									<div class="about-btn">
 										<button  class="about-view packages-btn">
-											book now
+											Komentar
 										</button>
 									</div><!--/.about-btn-->
 								</div><!--/.single-package-item-txt-->
@@ -457,21 +413,21 @@
 						
 						<div class="col-md-4 col-sm-6">
 							<div class="single-package-item">
-								<img src="<?php echo base_url('assets/images/packages/p6.jpg')?>" alt="package-place">
+								<img src="<?php echo base_url('assets/images/packages/kolam.jpg')?>" alt="package-place">
 								<div class="single-package-item-txt">
-									<h3>thailand <span class="pull-right">$799</span></h3>
+									<h3>Kolam Pasir Putih</h3>
 									<div class="packages-para">
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i> 5 daays 6 nights
+												<i class="fa fa-angle-right"></i> 09:00 - 17:00 WIB
 											</span>
-											<i class="fa fa-angle-right"></i>  5 star accomodation
+											<i class="fa fa-angle-right"></i> Bungalow
 										</p>
 										<p>
 											<span>
-												<i class="fa fa-angle-right"></i>  transportation
+												<i class="fa fa-angle-right"></i> Playground
 											</span>
-											<i class="fa fa-angle-right"></i>  food facilities
+											<i class="fa fa-angle-right"></i> pemancingan
 										 </p>
 									</div><!--/.packages-para-->
 									<div class="packages-review">
@@ -481,19 +437,57 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
-											<span>2544 review</span>
+											<span>300 review</span>
 										</p>
 									</div><!--/.packages-review-->
 									<div class="about-btn">
 										<button  class="about-view packages-btn">
-											book now
+											Komentar
 										</button>
 									</div><!--/.about-btn-->
 								</div><!--/.single-package-item-txt-->
 							</div><!--/.single-package-item-->
 
 						</div><!--/.col-->
+						
+						<div class="col-md-4 col-sm-6">
+							<div class="single-package-item">
+								<img src="<?php echo base_url('assets/images/packages/studio.jpg')?>" alt="package-place">
+								<div class="single-package-item-txt">
+									<h3>Studio Alam TVRI</h3>
+									<div class="packages-para">
+										<p>
+											<span>
+												<i class="fa fa-angle-right"></i> 08:00 - 16:00 WIB
+											</span>
+											<i class="fa fa-angle-right"></i> Area luas
+										</p>
+										<p>
+											<span>
+												<i class="fa fa-angle-right"></i> cocok untuk gathering
+											</span>
+											<i class="fa fa-angle-right"></i> food facilities
+										 </p>
+									</div><!--/.packages-para-->
+									<div class="packages-review">
+										<p>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<span>144 review</span>
+										</p>
+									</div><!--/.packages-review-->
+									<div class="about-btn">
+										<button  class="about-view packages-btn">
+											Komentar
+										</button>
+									</div><!--/.about-btn-->
+								</div><!--/.single-package-item-txt-->
+							</div><!--/.single-package-item-->
 
+						</div><!--/.col-->
 					</div><!--/.row-->
 				</div><!--/.packages-content-->
 			</div><!--/.container-->
@@ -501,7 +495,7 @@
 		</section><!--/.packages-->
 		<!--packages end-->
 
-		<!-- testemonial Start -->
+		<!-- komentar Start -->
 		<section   class="testemonial">
 			<div class="container">
 
@@ -510,7 +504,7 @@
 						Komentar Pengunjung
 					</h2>
 					<p>
-						Duis aute irure dolor in  velit esse cillum dolore eu fugiat nulla. 
+						Beberapa komentar pengunjung yang dapat dijadikan referensi
 					</p>
 
 				</div><!--/.gallery-header-->
