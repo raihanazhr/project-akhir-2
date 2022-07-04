@@ -514,21 +514,21 @@
 					<div class="home1-testm item">
 						<div class="home1-testm-single text-center">
 							<div class="home1-testm-img">
-								<img src="<?php echo base_url('assets/images/client/testimonial1.jpg')?>" alt="img"/>
+								<img src="<?php echo base_url('assets/images/client/p11.jpg')?>" alt="img"/>
 							</div><!--/.home1-testm-img-->
 							<div class="home1-testm-txt">
 								<span class="icon section-icon">
 									<i class="fa fa-quote-left" aria-hidden="true"></i>
 								</span>
 								<p>
-									Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
+									Ajak anak anak ketempat ini seruu, bisa berinteraksi dengan hewan yang ada di peternakan, seperti memeras susu sapi.
 								</p>
 								<h3>
 									<a href="#">
-										kevin watson
+										fajar maulana
 									</a>
 								</h3>
-								<h4>london, england</h4>
+								<h4>D'kandang Amazing Farm</h4>
 							</div><!--/.home1-testm-txt-->	
 						</div><!--/.home1-testm-single-->
 
@@ -537,21 +537,21 @@
 					<div class="home1-testm item">
 						<div class="home1-testm-single text-center">
 							<div class="home1-testm-img">
-								<img src="<?php echo base_url('assets/images/client/testimonial2.jpg')?>" alt="img"/>
+								<img src="<?php echo base_url('assets/images/client/p22.jpg')?>" alt="img"/>
 							</div><!--/.home1-testm-img-->
 							<div class="home1-testm-txt">
 								<span class="icon section-icon">
 									<i class="fa fa-quote-left" aria-hidden="true"></i>
 								</span>
 								<p>
-									Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
+									areanya luas, Outbond untuk Anak - anak tidak membosankan. Ada playground kecil kecilan juga bagi yang tidak niat outbond.
 								</p>
 								<h3>
 									<a href="#">
-										kevin watson
+										Ahmad wijaya
 									</a>
 								</h3>
-								<h4>london, england</h4>
+								<h4>Taman wiladatika</h4>
 							</div><!--/.home1-testm-txt-->	
 						</div><!--/.home1-testm-single-->
 
@@ -560,21 +560,21 @@
 					<div class="home1-testm item">
 						<div class="home1-testm-single text-center">
 							<div class="home1-testm-img">
-								<img src="<?php echo base_url('assets/images/client/testimonial1.jpg')?>" alt="img"/>
+								<img src="<?php echo base_url('assets/images/client/p33.jpg')?>" alt="img"/>
 							</div><!--/.home1-testm-img-->
 							<div class="home1-testm-txt">
 								<span class="icon section-icon">
 									<i class="fa fa-quote-left" aria-hidden="true"></i>
 								</span>
 								<p>
-									Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
+									Setelah ditutup karna covid, sekarang tempatnya lebih bagus, banyak promo menarik jika mengajak rombongan kesana.
 								</p>
 								<h3>
 									<a href="#">
-										kevin watson
+										Marina
 									</a>
 								</h3>
-								<h4>london, england</h4>
+								<h4>Mekarsari</h4>
 							</div><!--/.home1-testm-txt-->	
 						</div><!--/.home1-testm-single-->
 
@@ -583,21 +583,21 @@
 					<div class="home1-testm item">
 						<div class="home1-testm-single text-center">
 							<div class="home1-testm-img">
-								<img src="<?php echo base_url('assets/images/client/testimonial1.jpg')?>" alt="img"/>
+								<img src="<?php echo base_url('assets/images/client/p4.jpg')?>" alt="img"/>
 							</div><!--/.home1-testm-img-->
 							<div class="home1-testm-txt">
 								<span class="icon section-icon">
 									<i class="fa fa-quote-left" aria-hidden="true"></i>
 								</span>
 								<p>
-									Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
+									Makanan disini enak enak.tempatnya luas, disini juga ada pemancingan, jadi orangtua dan anak sama sama senang. aula nya bisa dipakai untuk acara keluarga
 								</p>
 								<h3>
 									<a href="#">
-										kevin watson
+										ibrahim
 									</a>
 								</h3>
-								<h4>london, england</h4>
+								<h4>Godong Ijo</h4>
 							</div><!--/.home1-testm-txt-->	
 						</div><!--/.home1-testm-single-->
 
@@ -606,21 +606,21 @@
 					<div class="home1-testm item">
 						<div class="home1-testm-single text-center">
 							<div class="home1-testm-img">
-								<img src="<?php echo base_url('assets/images/client/testimonial2.jp')?>"" alt="img"/>
+							<img src="<?php echo base_url('assets/images/client/p5.jpg')?>" alt="img"/>
 							</div><!--/.home1-testm-img-->
 							<div class="home1-testm-txt">
 								<span class="icon section-icon">
 									<i class="fa fa-quote-left" aria-hidden="true"></i>
 								</span>
 								<p>
-									Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
+									Wahana permainan airnya banyak. toilet disini juga bersih. penjaga kolam sangat sigap. semoga selalu bagus seperti ini
 								</p>
 								<h3>
 									<a href="#">
-										kevin watson
+										indah permata
 									</a>
 								</h3>
-								<h4>london, england</h4>
+								<h4>Pasir Putih</h4>
 							</div><!--/.home1-testm-txt-->	
 						</div><!--/.home1-testm-single-->
 
@@ -629,95 +629,25 @@
 					<div class="home1-testm item">
 						<div class="home1-testm-single text-center">
 							<div class="home1-testm-img">
-								<img src="<?php echo base_url('assets/images/client/testimonial1.jpg')?>" alt="img"/>
+								<img src="<?php echo base_url('assets/images/client/p6.jpeg')?>" alt="img"/>
 							</div><!--/.home1-testm-img-->
 							<div class="home1-testm-txt">
 								<span class="icon section-icon">
 									<i class="fa fa-quote-left" aria-hidden="true"></i>
 								</span>
 								<p>
-									Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
+									Tempatnya dekat dengan rumah. cocok untuk bersantai dengan keluarga, karna tempatnya yang luas,rindang, dan banyak makanan makanan yang dijual.
 								</p>
 								<h3>
 									<a href="#">
-										kevin watson
+										bayu
 									</a>
 								</h3>
-								<h4>london, england</h4>
+								<h4>Studio Alam TVRI</h4>
 							</div><!--/.home1-testm-txt-->	
 						</div><!--/.home1-testm-single-->
 
 					</div><!--/.item-->
-
-					<div class="home1-testm item">
-						<div class="home1-testm-single text-center">
-							<div class="home1-testm-img">
-								<img src="<?php echo base_url('assets/images/client/testimonial1.jpg')?>" alt="img"/>
-							</div><!--/.home1-testm-img-->
-							<div class="home1-testm-txt">
-								<span class="icon section-icon">
-									<i class="fa fa-quote-left" aria-hidden="true"></i>
-								</span>
-								<p>
-									Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
-								</p>
-								<h3>
-									<a href="#">
-										kevin watson
-									</a>
-								</h3>
-								<h4>london, england</h4>
-							</div><!--/.home1-testm-txt-->	
-						</div><!--/.home1-testm-single-->
-
-					</div><!--/.item-->
-
-					<div class="home1-testm item">
-						<div class="home1-testm-single text-center">
-							<div class="home1-testm-img">
-								<img src="<?php echo base_url('assets/images/client/testimonial2.jpg')?>" alt="img"/>
-							</div><!--/.home1-testm-img-->
-							<div class="home1-testm-txt">
-								<span class="icon section-icon">
-									<i class="fa fa-quote-left" aria-hidden="true"></i>
-								</span>
-								<p>
-									Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
-								</p>
-								<h3>
-									<a href="#">
-										kevin watson
-									</a>
-								</h3>
-								<h4>london, england</h4>
-							</div><!--/.home1-testm-txt-->	
-						</div><!--/.home1-testm-single-->
-
-					</div><!--/.item-->
-
-					<div class="home1-testm item">
-						<div class="home1-testm-single text-center">
-							<div class="home1-testm-img">
-								<img src="<?php echo base_url('assets/images/client/testimonial1.jpg')?>" alt="img"/>
-							</div><!--/.home1-testm-img-->
-							<div class="home1-testm-txt">
-								<span class="icon section-icon">
-									<i class="fa fa-quote-left" aria-hidden="true"></i>
-								</span>
-								<p>
-									Lorem ipsum dolor sit amet, contur adip elit, sed do mod incid ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
-								</p>
-								<h3>
-									<a href="#">
-										kevin watson
-									</a>
-								</h3>
-								<h4>london, england</h4>
-							</div><!--/.home1-testm-txt-->	
-						</div><!--/.home1-testm-single-->
-
-					</div><!--/.item-->
-
 				</div><!--/.testemonial-carousel-->
 			</div><!--/.container-->
 
